@@ -1,0 +1,45 @@
+/*Selector {
+	property: value;
+}*/
+
+body {
+	background-image: url(ciocan-ciprian-268394-unsplash.jpg);
+	background-size: cover;
+}
+
+h2 {
+	color: #AA4139;
+	border-color: #FFB0AA;
+	text-align: center;
+	border: 5px dashed purple;
+	cursor: pointer;
+}
+
+p {
+	color: pink;
+	line-height: 20px;
+	font-family: "Roboto Condensed";
+}
+
+iframe {
+	text-align: center;
+}
+
+li {
+	list-style: none;
+	display: inline-block;
+}
+
+.webtext {
+	border: 1px solid purple;
+}
+
+#div1 {
+	background: rgba(198,55,98,0.2);
+}
+
+.boxmodel {
+	border: 5px solid red;
+	display: inline-block;
+	padding: 20px;
+}
